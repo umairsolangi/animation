@@ -1,0 +1,207 @@
+
+*{
+    margin: 0 auto;
+}
+
+html {
+    height: 790px;
+}
+body {
+    background-image: linear-gradient(rgb(78, 189, 253),rgb(250, 79, 250));
+background-repeat: no-repeat;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container3{
+    display: flex;
+    justify-content: center;
+}
+
+
+.animation1{
+    width: 180px;
+    height: 180px;
+    background-color: #1abc9c;
+    margin: 10px;
+    
+}
+.animation1 img{
+    padding: 60px;
+}
+/* img{
+    padding: 60px;
+    
+} */
+
+.animation2{
+    width: 180px;
+    height: 180px;
+    background-color: #34495e;
+    margin: 10px;
+    
+}
+.animation2 img{
+    padding: 70px;
+}
+
+.animation3{
+    width: 180px;
+    height: 180px;
+    background-color: #f39c12;
+    margin: 10px;
+   
+}
+.animation3 img{
+    padding: 60px;
+}
+.animation4{
+    width: 180px;
+    height: 180px;
+    background-color: #9b59b6;
+    margin: 10px;
+    
+}
+.animation4 img{
+    padding-top: 70px;
+    padding-left: 40px;
+    
+}
+
+.animation5{
+    width: 180px;
+    height: 180px;
+    background-color: #3498db;
+    margin: 10px;
+    
+}
+.animation5 img{
+padding-left: 70px;
+padding-top: 70px;
+}
+.animation6{
+    width: 180px;
+    height: 180px;
+    background-color: #e74c3c;
+    margin: 10px;
+   
+}
+.animation6 img{
+    padding-left: 65px;
+   padding-top: 85px;
+}
+.animation7{
+    width: 180px;
+    height: 180px;
+    background-color: #2ecc71;
+    margin: 10px;
+   
+}
+.animation7 img{
+    padding-left: 65px;
+   padding-top: 60px;
+}
+.animation8{
+    width: 180px;
+    height: 180px;
+    background-color: #2c3e50;
+    margin: 10px;
+    
+}
+.animation8 img{
+    padding-left: 65px;
+   padding-top: 65px;
+}
+
+.animation9{
+    width: 180px;
+    height: 180px;
+    background-color: #f1c40f;
+    margin: 10px;
+    
+}
+.animation9 img{
+    padding-left: 60px;
+   padding-top: 65px;
+}
+.animation10{
+    width: 180px;
+    height: 180px;
+    background-color: #8e44ad;
+    margin: 10px;
+    
+}
+.animation10  img{
+    padding-left: 65px;
+   padding-top: 70px;
+}
+.animation11{
+    width: 180px;
+    height: 180px;
+    background-color: #2980b9;
+    margin: 10px;
+    
+}
+.animation11 img{
+    padding-left: 60px;
+   padding-top: 60px;
+}
+.animation12{
+        width: 180px;
+    height: 180px;
+    background-color: #e74c3c;
+    margin: 10px;
+    
+}
+.animation12 img{
+    padding-left: 65px;
+   padding-top: 55px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+button{
+    
+    width: 150px;
+    height: 46px;
+    margin: 30px;
+    border: 2px solid white;
+    background:none;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+i{
+    font-size: 20px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+p{
+    text-align: center;
+    padding-bottom: 60px;
+}
+.host{
+    text-decoration: none;
+    color: white;
+}
+.founder{
+    border-radius: 20px;
+    margin-bottom: -10px;
+}
+.founder:hover{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
